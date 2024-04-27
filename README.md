@@ -2,6 +2,8 @@
 
 I'm Shreya Mishra, a B-Tech student in Computer Science and Engineering at PES University. Welcome to my GitHub profile!
 
+![Profile Picture](https://avatars.githubusercontent.com/u/92511421?v=4)
+
 ## About Me
 
 Passionate and dedicated about programming and DSA. A Fast Learner and stays updated in Data Science and Machine Learning.
@@ -26,11 +28,14 @@ Passionate and dedicated about programming and DSA. A Fast Learner and stays upd
 - Achieved an accuracy of 98.75%
 - [GitHub Repository](https://github.com/ishreya09/Dog-vs-Cat-Classification)
 
-## Technical Skills
-- Languages: Python, C++, SQL(MySQL)
-- Version Control: Git
-- Data Analysis and Visualization: pandas, numpy, SMOTE, matplotlib, seaborn, statsmodels
-- Machine Learning: scikit-learn, scipy
-- Deep Learning: tensorflow, pytorch, keras
+## Technologies Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya09&layout=compact&langs_count=20&theme=dark)](https://github.com/ishreya09)
+
+## GitHub Activity
+
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ishreya09&theme=dark)
+
+
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
