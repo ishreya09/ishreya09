@@ -1,28 +1,23 @@
-
-
+## Shreya Mishra
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shreya.;B-ech+CSE+at+PES+University.;I+love+Machine+Learning+and+AI.;I+like+to+stay+updated.;Welcome+to+my+profile.+I+would+love+to+collaborate+with+people+who+share+similar+interests.;&center=true&width=800&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shreya.;B-Tech+CSE+at+PES+University.;I+love+Machine+Learning+and+AI.;I+would+love+to+collaborate+with+people+who+share+similar+interests.;&width=800&height=80"></a>
 </p>
 
-## Projects
+## ML Projects
 
-### Parkinson Prediction Model
-- Developed a binary classification model to predict Parkinson's disease
-- Utilized Python (pandas, scikit-learn, SMOTE, matplotlib, numpy)
-- Achieved an accuracy of 98.31%
-- [GitHub Repository](https://github.com/ishreya09/Parkinson-Prediction-Model/)
+[![CIFAR-100 Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=CIFAR-100-Image-Classification&show_owner=true&theme=dark)](https://github.com/ishreya09/CIFAR-100-Image-Classification)
+[![Parkinson Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Parkinson-Prediction-Model&show_owner=true&theme=dark)](https://github.com/ishreya09/Parkinson-Prediction-Model)
+[![Stock Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Stock-Price-Prediction&show_owner=true&theme=dark)](https://github.com/ishreya09/Stock-Price-Prediction)
+[![Dog vs Cat Classification](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Dog-vs-Cat-Classification&show_owner=true&theme=dark)](https://github.com/ishreya09/Dog-vs-Cat-Classification)
+[![Digit Recognition Model](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Digit-recognition-model&show_owner=true&theme=dark)](https://github.com/ishreya09/Digit-recognition-model)
+[![Car Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Car-Price-Prediction&show_owner=true&theme=dark)](https://github.com/ishreya09/Car-Price-Prediction)
 
-### Stock Price Prediction
-- Performed exploratory data analysis on time series data
-- Utilized Python (numpy, pandas, matplotlib, statsmodels, scikit-learn)
-- Developed a generalized model for stock price prediction
-- [GitHub Repository](https://github.com/ishreya09/Stock-Price-Prediction)
 
-### Dog vs Cat Classification Model
-- Developed a binary classification model to distinguish between images of dogs and cats
-- Utilized Python (TensorFlow, MobileNetV2, TensorFlow, Tensorflow-Hub, keras, tkinter)
-- Achieved an accuracy of 98.75%
-- [GitHub Repository](https://github.com/ishreya09/Dog-vs-Cat-Classification)
+## Web dev projects
+
+[![Campus Compass](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Campus-Compass&show_owner=true&theme=dark)](https://github.com/ishreya09/Campus-Compass)
+[![Book On Rails](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Book-On-Rails&show_owner=true&theme=dark)](https://github.com/ishreya09/Book-On-Rails)
+[![Moview](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=moview&show_owner=true&theme=dark)](https://github.com/ishreya09/moview)
 
 ## Technologies Used
 
@@ -37,9 +32,9 @@
 <td align="center" ><strong>Database</strong></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,"/></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></td>
 <td><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,react,nodejs,express"/></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,python,java"/></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,python,java"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
 </tr>
 </table>
