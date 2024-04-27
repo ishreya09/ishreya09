@@ -1,10 +1,8 @@
-# Hi there! 👋
 
-I'm Shreya Mishra, a B-Tech student in Computer Science and Engineering at PES University. Welcome to my GitHub profile!
 
-## About Me
-
-Passionate and dedicated about programming and DSA. A Fast Learner and stays updated in Data Science and Machine Learning.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shreya.;B-ech+CSE+at+PES+University.;I+love+Machine+Learning+and+AI.;I+like+to+stay+updated.;Welcome+to+my+profile.+I+would+love+to+collaborate+with+people+who+share+similar+interests.;&center=true&width=800&height=50"></a>
+</p>
 
 ## Projects
 
@@ -30,6 +28,21 @@ Passionate and dedicated about programming and DSA. A Fast Learner and stays upd
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya09&layout=compact&langs_count=20&theme=dark)](https://github.com/ishreya09)
 
+<!-- Skills Table -->
+<table>
+<tr>
+<td align="center" ><strong>Deep Learning</strong></td>
+<td align="center" ><strong>Web Development</strong></td>
+<td align="center" ><strong>Programming Language</strong></td>
+<td align="center" ><strong>Database</strong></td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,react,nodejs,express"/></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,python,java"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+</tr>
+</table>
 
 ## GitHub Activity
 
