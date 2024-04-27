@@ -32,10 +32,11 @@ Passionate and dedicated about programming and DSA. A Fast Learner and stays upd
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya09&layout=compact&langs_count=20&theme=dark)](https://github.com/ishreya09)
 
+
 ## GitHub Activity
 
 ![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=ishreya09&theme=dark)
-
+![Your GitHub Contribution Activity](https://github-readme-stats.vercel.app/api?username=ishreya09&theme=dark&show_icons=true)
 
 
 Feel free to reach out to me if you have any questions or collaboration opportunities!
