@@ -2,8 +2,6 @@
 
 I'm Shreya Mishra, a B-Tech student in Computer Science and Engineering at PES University. Welcome to my GitHub profile!
 
-![Profile Picture](https://avatars.githubusercontent.com/u/92511421?v=4)
-
 ## About Me
 
 Passionate and dedicated about programming and DSA. A Fast Learner and stays updated in Data Science and Machine Learning.
