@@ -33,8 +33,8 @@
 <td align="center" ><strong>Database</strong></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,react,nodejs,express"/></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,react,nodejs,express,spring"/></td>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
 </tr>
