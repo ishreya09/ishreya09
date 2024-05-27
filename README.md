@@ -1,6 +1,6 @@
 ## Shreya Mishra
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shreya.;B-Tech+CSE+at+PES+University.;I+love+Machine+Learning+and+AI.;I+would+love+to+collaborate+with+people+who+share+similar+interests.;&width=800&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shreya.;B-Tech+CSE+at+PES+University.;Enthusiastic+about+Machine+Learning+and+AI.;I+would+love+to+collaborate+with+people+who+share+similar+interests.;&width=800&height=80"></a>
 </p>
 
 ## ML Projects
