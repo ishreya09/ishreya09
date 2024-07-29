@@ -5,7 +5,7 @@
 
 ## ML Projects
 
-[![Skin-Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Skin-Cancer-Detection&show_owner=true&theme=dark)](https://github.com/ishreya09/CIFAR-100-Image-Classification)
+[![Skin-Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Skin-Cancer-Detection&show_owner=true&theme=dark)](https://github.com/ishreya09/Skin-Cancer-Detection)
 [![Parkinson Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Parkinson-Prediction-Model&show_owner=true&theme=dark)](https://github.com/ishreya09/Parkinson-Prediction-Model)
 [![Stock Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Stock-Price-Prediction&show_owner=true&theme=dark)](https://github.com/ishreya09/Stock-Price-Prediction)
 [![Dog vs Cat Classification](https://github-readme-stats.vercel.app/api/pin/?username=ishreya09&repo=Dog-vs-Cat-Classification&show_owner=true&theme=dark)](https://github.com/ishreya09/Dog-vs-Cat-Classification)
