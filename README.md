@@ -22,7 +22,7 @@
 
 ## Technologies Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya09&layout=compact&langs_count=5&theme=dark)](https://github.com/ishreya09)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishreya09&layout=compact&langs_count=10&theme=dark)](https://github.com/ishreya09)
 
 <!-- Skills Table -->
 <table>
